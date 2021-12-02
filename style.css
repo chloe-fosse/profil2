@@ -1,0 +1,50 @@
+body  {
+   background-color: lavender;
+   color: blueviolet;
+   font-family: Courier;
+}
+
+h1 { 
+  color: lightpink;
+  font-family: Helvetica;
+  font-weight: 100;
+  letter-spacing: 10px;
+  font-size: 60px;
+}
+h2 {
+   color: hotpink;
+   font-size: 24px;
+   font-weight: lighter;  
+}
+a {
+   text-decoration: none;
+   color: hotpink;
+}
+a:hover {
+  color: palevioletred;
+}
+
+div {
+  background: white;
+  border: 2px solid black;
+  margin: 10px;
+}
+
+#Chloé {
+  width: 130px;
+  border-radius: 200%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
